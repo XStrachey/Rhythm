@@ -1,10 +1,6 @@
 # Rhythm
 
-``` HTML
-<video width="1280" height="720" controls>
-    <source src="Documents/Leapmotion.mp4.mp4" type="video/mp4">
-</video>
-```
+Demo Vedio（pwd:LeapUnity） https://v.youku.com/v_show/id_XNDE4MTM5Njg0MA==.html?spm=a2h3j.8428770.3416059.1
 
 This repository is a team project assignment for the Digital Media course in the third year of the Software Engineering at SCUT. 
 
